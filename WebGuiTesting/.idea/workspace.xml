@@ -24,7 +24,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b8400ba-1942-458e-989a-cf3a68b9a72c" name="Default Changelist" comment="" />
+    <list default="true" id="0b8400ba-1942-458e-989a-cf3a68b9a72c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/selenium/test1-win10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTestDemo/UnitTestDemo.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTestDemo/UnitTestDemo.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMeter/LoadTesting.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/JMeter/LoadTesting.jmx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZAP/SecurityTests.session.data" beforeDir="false" afterPath="$PROJECT_DIR$/ZAP/SecurityTests.session.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZAP/SecurityTests.session.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ZAP/SecurityTests.session.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZAP/SecurityTests.session.script" beforeDir="false" afterPath="$PROJECT_DIR$/ZAP/SecurityTests.session.script" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1rwW5gTSowIvnXgFimeg2B3u4S5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,15 +62,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium/test1.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium/test1-win10.js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sources\BIS-Testing.git\WebGuiTesting\selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Test Firefox (win10)">
+    <configuration name="Test Firefox (win10)" type="NodeJSConfigurationType" path-to-js-file="selenium/test1-win10.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="test1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="selenium/test1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Node.js.test1.js" />
+      <item itemvalue="Node.js.Test Firefox (win10)" />
+    </list>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -75,11 +98,14 @@
       <workItem from="1619887451929" duration="2356000" />
       <workItem from="1619890964812" duration="319000" />
       <workItem from="1619948152347" duration="6000" />
+      <workItem from="1622204846920" duration="312000" />
+      <workItem from="1622205176538" duration="244000" />
+      <workItem from="1622206481175" duration="2962000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -92,43 +118,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2668" y="412" width="402" height="220" key="#Chrome_Settings" timestamp="1619887590612">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2668" y="412" width="402" height="220" key="#Chrome_Settings/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619887590612" />
-    <state x="2647" y="305" width="821" height="435" key="#Web_Browsers" timestamp="1619887617121">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2647" y="305" width="821" height="435" key="#Web_Browsers/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619887617121" />
-    <state x="2338" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619888559251">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2338" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619888559251" />
-    <state x="2663" y="281" width="424" height="484" key="FileChooserDialogImpl" timestamp="1619888556063">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2663" y="281" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619888556063" />
-    <state width="1874" height="228" key="GridCell.Tab.0.bottom" timestamp="1619889808006">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="228" key="GridCell.Tab.0.bottom/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619889808006" />
-    <state width="1874" height="228" key="GridCell.Tab.0.center" timestamp="1619889808006">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="228" key="GridCell.Tab.0.center/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619889808006" />
-    <state width="1874" height="228" key="GridCell.Tab.0.left" timestamp="1619889808006">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="228" key="GridCell.Tab.0.left/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619889808006" />
-    <state width="1874" height="228" key="GridCell.Tab.0.right" timestamp="1619889808006">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1874" height="228" key="GridCell.Tab.0.right/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619889808006" />
-    <state x="2369" y="158" key="SettingsEditor" timestamp="1619887640007">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2369" y="158" key="SettingsEditor/1920.0.1920.1080/3840.0.1920.1080/0.0.1920.1048@1920.0.1920.1080" timestamp="1619887640007" />
   </component>
 </project>
