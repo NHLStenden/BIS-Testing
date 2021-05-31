@@ -25,14 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b8400ba-1942-458e-989a-cf3a68b9a72c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/selenium/test1-win10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UnitTestDemo/UnitTestDemo.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../UnitTestDemo/UnitTestDemo.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JMeter/LoadTesting.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/JMeter/LoadTesting.jmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZAP/SecurityTests.session.data" beforeDir="false" afterPath="$PROJECT_DIR$/ZAP/SecurityTests.session.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZAP/SecurityTests.session.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ZAP/SecurityTests.session.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZAP/SecurityTests.session.script" beforeDir="false" afterPath="$PROJECT_DIR$/ZAP/SecurityTests.session.script" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium/test1-win10.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../README.md" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -101,6 +96,7 @@
       <workItem from="1622204846920" duration="312000" />
       <workItem from="1622205176538" duration="244000" />
       <workItem from="1622206481175" duration="2962000" />
+      <workItem from="1622443922527" duration="5098000" />
     </task>
     <servers />
   </component>

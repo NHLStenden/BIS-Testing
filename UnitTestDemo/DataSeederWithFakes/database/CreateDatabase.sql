@@ -31,3 +31,4 @@ CREATE OR REPLACE VIEW vw_Employee_reviews AS
            rev.review
     FROM tbl_employee emp
          LEFT JOIN tbl_reviews rev ON emp.id = rev.fk_idEmployee;
+
