@@ -13,7 +13,7 @@ namespace DataSeederWithFakes
             string server = "localhost";
             string database = "FakerData";
             string uid = "faker";
-            string password = "faker";
+            string password = "ZWGZ3hOf)Rmr(@im";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" + 
                                database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
