@@ -1,12 +1,13 @@
 using MainApp;
 using NUnit.Framework;
 
-/**
+/*
  * Benodigde NuGet Packages:
  *  - Microsoft.NET.Test.Sdk
  *  - NUnit
  *  - NUnit3TestAdapter
  */
+
 namespace TestProject
 {
     public class Tests
@@ -15,13 +16,18 @@ namespace TestProject
         [SetUp]
         public void Setup()
         {
+            // ARRANGE ('setup')
             this.berekeningen = new Berekeningen();
         }
 
         [TestCase(1.5f, 2.5f, 4.0f)]
         [TestCase(1,2,3)]
         public void TestFloats(float a, float b , float expectedResult) {
-            Assert.AreEqual(expectedResult, berekeningen.AddTwoNumbers(a,b));
+            // ACT
+            float result = berekeningen.AddTwoNumbers(a, b);
+            
+            // ASSERT
+            Assert.AreEqual(expectedResult, result);
         }
 
         #region TestIntegers
@@ -135,13 +141,19 @@ namespace TestProject
         [TestCase(361, 108, 469)]
         #endregion
         public void TestIntegers(int a, int b , int expectedResult) {
-            Assert.AreEqual(expectedResult, berekeningen.AddTwoNumbers(a,b));
+            // ACT
+            long result = berekeningen.AddTwoNumbers(a, b);
+            // ASSERT
+            Assert.AreEqual(expectedResult, result);
         }    
         
         [TestCase(1, 2, 3)]
         [TestCase(-999, 1000, 1)]
         public void TestDoubles(double a, double b , double expectedResult) {
-            Assert.AreEqual(expectedResult, berekeningen.AddTwoNumbers(a,b));
+            // ACT
+            double result = berekeningen.AddTwoNumbers(a, b);
+            // ASSERT
+            Assert.AreEqual(expectedResult, result);
         }
     }
 }
