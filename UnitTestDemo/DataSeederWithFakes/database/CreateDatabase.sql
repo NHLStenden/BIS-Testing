@@ -1,8 +1,10 @@
 DROP DATABASE IF EXISTS FakerData;
 
-CREATE DATABASE FakerData;
+CREATE DATABASE FakerData COLLATE utf8mb4_general_ci;
 
 USE FakerData;
+
+CREATE USER 'faker'@'localhost' IDENTIFIED WITH mysql_native_password BY 'ZWGZ3hOf)Rmr(@im';
 GRANT ALL PRIVILEGES ON `FakerData`.* TO 'faker'@'localhost';
 
 
