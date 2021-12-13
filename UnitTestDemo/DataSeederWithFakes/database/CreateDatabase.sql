@@ -4,7 +4,11 @@ CREATE DATABASE FakerData COLLATE utf8mb4_general_ci;
 
 USE FakerData;
 
-CREATE USER 'faker'@'localhost' IDENTIFIED WITH mysql_native_password BY 'ZWGZ3hOf)Rmr(@im';
+# MySQL (Pure) CREATE USER 'faker'@'localhost' IDENTIFIED WITH mysql_native_password BY 'ZWGZ3hOf)Rmr(@im';
+# MariaDB: CREATE USER 'faker'@'localhost' IDENTIFIED WITH mysql_native_password USING PASSWORD( 'ZWGZ3hOf)Rmr(@im');
+
+CREATE USER IF NOT EXISTS 'faker'@'localhost' IDENTIFIED WITH mysql_native_password USING PASSWORD('ZWGZ3hOf)Rmr(@im');
+
 GRANT ALL PRIVILEGES ON `FakerData`.* TO 'faker'@'localhost';
 
 
