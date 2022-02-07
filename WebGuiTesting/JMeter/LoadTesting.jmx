@@ -140,7 +140,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\mnt\ssd\Develop\NHLStendenProjectsPrivate\BIS-Testen\WebGuiTesting\JMeter\TestResults.csv</stringProp>
+        <stringProp name="filename">C:\temp\TestResults.csv</stringProp>
       </ResultCollector>
       <hashTree/>
     </hashTree>

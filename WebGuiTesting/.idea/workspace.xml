@@ -25,14 +25,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b8400ba-1942-458e-989a-cf3a68b9a72c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JMeter/LoadTesting.jmx" beforeDir="false" afterPath="$PROJECT_DIR$/JMeter/LoadTesting.jmx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,6 +47,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1rwW5gTSowIvnXgFimeg2B3u4S5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,7 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../README.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../_Crisisgame/crisisgamev11" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -97,6 +103,14 @@
       <workItem from="1622205176538" duration="244000" />
       <workItem from="1622206481175" duration="2962000" />
       <workItem from="1622443922527" duration="5098000" />
+      <workItem from="1639391367590" duration="714000" />
+      <workItem from="1639422902493" duration="13000" />
+      <workItem from="1639423832908" duration="638000" />
+      <workItem from="1639490454881" duration="1261000" />
+      <workItem from="1641829652036" duration="186000" />
+      <workItem from="1641830021720" duration="37000" />
+      <workItem from="1643033897337" duration="125000" />
+      <workItem from="1643034068130" duration="26000" />
     </task>
     <servers />
   </component>
